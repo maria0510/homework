@@ -41,4 +41,3 @@
   * Для получения нужного символа (char) из строки используйте следующие методы класса String: `charAt` и `length`    
     * http://docs.oracle.com/javase/7/docs/api/java/lang/String.html#charAt(int)
     * http://docs.oracle.com/javase/7/docs/api/java/lang/String.html#length()
-    > если по клику ссылки выше не открываются, скопируйте ее и откройте напрямую в браузере
