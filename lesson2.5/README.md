@@ -7,16 +7,16 @@
 Всего четыре задачи:
 
   * Напишите метод, который конвертирует строку, содержащую целое число в **двоичной** системе счисления, в целое число в **десятичной** системе счисления используя [Positional Notation](http://www.wikihow.com/Convert-from-Binary-to-Decimal#Using_Positional_Notation_sub)
-  
+
 ```java
   public static int convertBinToDec1(String binary) {
     // your code here
     return 0;
   }
 ```
-  
+
   * Напишите метод, который конвертирует строку, содержащую целое число в **двоичной** системе счисления, в целое число в **десятичной системе** счисления используя [Doubling](http://www.wikihow.com/Convert-from-Binary-to-Decimal#Using_Doubling_sub)
-  
+
 ```java
   public static int convertBinToDec2(String binary) {
     // your code here
@@ -25,20 +25,20 @@
 ```
 
   * Напишите метод, который конвертирует строку, содержащую целое число в **десятичной** системе счисления, в целое число в **двоичной** системе счисления используя [Short Division by Two with Remainder](http://www.wikihow.com/Convert-from-Decimal-to-Binary#Short_Division_by_Two_with_Remainder_sub)
-  
+
 ```java
-  public static int convertDecToBin1(int decimal) {
+  public static String convertDecToBin1(int decimal) {
     // your code here
-    return 0;
+    return "";
   }
 ```
 
   * Напишите метод, который конвертирует строку, содержащую целое число в **десятичной** системе счисления, в целое число в **двоичной** системе счисления используя [Descending Powers of Two and Subtraction](http://www.wikihow.com/Convert-from-Decimal-to-Binary#Descending_Powers_of_Two_and_Subtraction_sub)
-  
+
 ```java
-  public static int convertDecToBin2(int decimal) {
+  public static String convertDecToBin2(int decimal) {
     // your code here
-    return 0;
+    return "";
   }
   ```
 
@@ -47,7 +47,7 @@
 Напишите метод "калькулятор целых чисел"
   * "упрощенная"" версия использует арифметические операторы `+` и(или) `-`
   * "продвинутая" версия может использовать `*` в комбинации с `+` и `-`
-  
+
 ```java
    public static int calc(String expression) {
      // your code here
