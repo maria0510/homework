@@ -1,10 +1,9 @@
 Hometask 5
-Masha@Masha--- MINGW32 /c/homework-with-gradle/homework/lesson_4/maria.sergeeva (master)
-$ gradle execute
-:compileJava UP-TO-DATE
-:processResources UP-TO-DATE
-:classes UP-TO-DATE
-:execute
+Masha@Masha--- MINGW32 /c/homework/lesson4/msergeeva (master)
+$ javac -cp src src/main/java/Main.java -d out
+
+Masha@Masha--- MINGW32 /c/homework/lesson4/msergeeva (master)
+$ java -cp out Main
        1
       1 1
      1 2 1
@@ -37,8 +36,4 @@ Array is transposed:
  4 8 12
 Array is linearized:
  1 2 3 4 5 6 7 8 9 10 11 12
-
-BUILD SUCCESSFUL
-
-Total time: 3.646 secs
 
