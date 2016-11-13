@@ -1,10 +1,9 @@
 Hometask 6
-Masha@Masha--- MINGW32 /c/homework-with-gradle/homework/lesson_6/maria.sergeeva (master)
-$ gradle execute
-:compileJava
-:processResources UP-TO-DATE
-:classes
-:execute
+Masha@Masha--- MINGW32 /c/homework/lesson5/msergeeva (master)
+$ javac -cp src src/main/java/Main.java -d out
+
+Masha@Masha--- MINGW32 /c/homework/lesson5/msergeeva (master)
+$ java -cp out Main
 Hillel
 Group: English
  Maria Sergeeva age:27
@@ -18,8 +17,4 @@ Group: Java Elementary
 Group: English
 Group: Java Elementary
 
-
-BUILD SUCCESSFUL
-
-Total time: 3.807 secs
 
